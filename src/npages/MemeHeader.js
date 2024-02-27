@@ -5,7 +5,7 @@ export default function Header() {
     <header className="header">
       <img className="header--img" src={trollFace} alt="troll face" />
       <h2 className="header--title">Meme Generator</h2>
-      <h4 className="header--project">React Course - Project 3</h4>
+      <h4 className="header--project">I'm a Teapot... Filled with Memes!</h4>
     </header>
   );
 }
